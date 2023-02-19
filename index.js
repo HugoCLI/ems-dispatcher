@@ -14,8 +14,8 @@ const TOKEN = process.env.DISCORD_BOT_TOKEN;
 const prefix = '!'; // Préfixe des commandes
 
 
-let agents = store.get('agents');
-let services = store.get('services');
+let agents = store.get('agents') | {};
+let services = store.get('services') | {};
 
 
 const save_data = () => {
