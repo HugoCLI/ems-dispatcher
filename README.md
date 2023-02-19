@@ -1,4 +1,4 @@
-<h3>About</h3>
+<br><br><h3>About</h3>
 Here's a README for a Discord bot that allows managing an EMS server on GTA. The bot was created with the help of HugoCLI. You can clone the bot using the following link: https://github.com/HugoCLI/ems-dispatcher
 <br><br>
 <h3>Installation</h3>
