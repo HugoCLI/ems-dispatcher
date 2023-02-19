@@ -10,7 +10,6 @@ const client = new Client({ intents });
 
 // Remplacer 'TON_TOKEN_ICI' par ton propre jeton Discord bot
 const TOKEN = process.env.DISCORD_BOT_TOKEN;
-console.log(process.env)
 
 const prefix = '!'; // Préfixe des commandes
 
